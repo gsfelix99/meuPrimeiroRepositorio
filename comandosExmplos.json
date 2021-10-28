@@ -1,3 +1,5 @@
 {
-    "iniciar": "git init"
+    "iniciar": "git init",
+    "checando status": "git status",
+    "preparando para envio": "git commit -m <nome do arquivo> mensagem"
 }
