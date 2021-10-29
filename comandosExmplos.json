@@ -1,7 +1,7 @@
 {
-    "iniciar": "git init",
-    "checando status": "git status",
-    "preparando para envio": "git commit -m <mensagem> <nome do arquivo> ",
-    "adicionando branch": "git branch <nome da branch>",
-    "add": "pelo vs code"
+"iniciar":"git init",
+"checando status":"git status",
+"preparando para envio":"git commit -m <mensagem> <nome do arquivo> ",
+"adicionando branch":"git branch <nome da branch>",
+"add":"pelo vs code"
 }
